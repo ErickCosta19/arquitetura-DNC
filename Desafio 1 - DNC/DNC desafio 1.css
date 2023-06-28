@@ -1,0 +1,117 @@
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+body{
+    font-family: inter;
+    margin: 0;
+    padding: 0;
+}
+
+.section1{
+    background-color: #303030;
+    color: #FFFFFF;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 1360px;
+    height: 280px;
+    top: 0px;
+}
+
+.trad{
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 60px;
+    font-style: normal;
+}
+
+.trad2{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.container{
+    margin-top: 20rem;
+    margin-bottom: 13rem;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.info1{
+    margin-left: 3rem;
+    margin-right: 2rem;
+}
+
+.info2{
+    margin-right: 2rem;
+}
+
+.info3{
+    margin-right: 2rem;
+}
+
+.exp{
+    margin-top: 20rem;
+}
+
+h1{
+    margin-left: 60px;
+}
+
+.gray{
+    width: 735px;
+    margin-left: 60px;
+    font-size: 18px;
+    display: flex;
+    color: #000000;
+}
+
+img{
+    width: 29rem;
+    height: 35rem;
+    margin-left: 53rem;
+    margin-top:-25rem;
+    margin-bottom: 5rem;
+}
+
+.containerII{
+    background-color: #303030;
+    color: #FFFFFF;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 1358px;
+    height: 400px;
+}
+
+.containerII h3{
+    margin-top: 4rem;
+}
+
+label{
+    display: block;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+input{
+    border: none;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+button{
+    justify-content: center;
+    background-color: #C07212;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-top: 3rem;
+    font-size: 18px;
+    width: 13rem;
+    height: 3rem;
+    border-radius: 10px;
+}
